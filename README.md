@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/yarphen/DDKUI.svg?branch=ci)](https://travis-ci.com/yarphen/DDKUI)
+
 # DDK UI
 ## Prerequisite for DDK-UI system
 This sections provides details on what you need install on your system in order to run DDK.
