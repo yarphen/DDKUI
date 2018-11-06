@@ -1,5 +1,3 @@
-// dummy change comment
-
 properties([pipelineTriggers([githubPush()])])
 
 pipeline {
